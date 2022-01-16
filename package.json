@@ -3,7 +3,7 @@
   "displayName": "Sanam Dark Pro",
   "publisher": "sanam",
   "description": "Dark color theme extension for VS Code with green ascent",
-  "icon": "images/icon.png",
+  "icon": "images/icon/icon.png",
   "version": "0.0.3",
   "engines": {
     "vscode": "^1.63.0"
