@@ -6,6 +6,10 @@
   "engines": {
     "vscode": "^1.63.0"
   },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/username/repository.git"
+  },
   "categories": [
     "Themes"
   ],
