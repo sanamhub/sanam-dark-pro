@@ -4,7 +4,7 @@
   "publisher": "sanam",
   "description": "Dark color theme extension for VS Code with green ascent",
   "icon": "images/icon/icon.png",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "engines": {
     "vscode": "^1.63.0"
   },
@@ -18,7 +18,7 @@
   "contributes": {
     "themes": [
       {
-        "label": "sanam-dark-pro",
+        "label": "Sanam Dark Pro",
         "uiTheme": "vs-dark",
         "path": "./themes/sanam-dark-pro-color-theme.json"
       }

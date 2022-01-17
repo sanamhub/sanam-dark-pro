@@ -21,3 +21,9 @@ All notable changes to the "sanam-dark-pro" extension will be documented in this
 
 - Sample screenshots
 - Readme enhancements
+
+## [0.0.4]
+
+### Enhanced
+
+- label enhancements
